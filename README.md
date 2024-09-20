@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, &nbsp;I'm Nayem Hasan 👨‍💻</h1>
 <h3 align="center">MERN Stack Developer</h3>
-<p>Hi, I am name is Nayem Hasan. I am a self-motivated Frontend Developer with experience in React, Redux and Next.js. Eager to apply my skills in web development and collaborate on creating effective and user-friendly applications.</p>
+<p>Hi, I am Nayem Hasan. I am a self-motivated Frontend Developer with experience in React, Redux and Next.js. Eager to apply my skills in web development and collaborate on creating effective and user-friendly applications.</p>
 <br />
 
 
